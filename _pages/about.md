@@ -36,12 +36,12 @@ My research interests include cloud resource management and Machine Learning Ope
 
 # 📝 Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE TNSM 2023</div><img src='images/a_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2023</div><img src='images/a_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management
+**Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management (Under Reviewed) 
 
-2023, IEEE Transactions on Network and Service Management (Under Review) 
+2023, IEEE Transactions on Network and Service Management
 
 **Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
 
