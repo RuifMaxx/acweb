@@ -41,6 +41,8 @@ My research interests include cloud resource management and Machine Learning Ope
 
 **Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management
 
+2023, IEEE Transactions on Network and Service Management (Under Review) 
+
 **Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
 
 - Existing methods cannot describe the internal mathematical expression between resources and performance, resulting in the inability to accurately give the amount of resource allocation under dynamic load conditions.
@@ -58,8 +60,8 @@ My research interests include cloud resource management and Machine Learning Ope
 - *2021.12* The Second Prize of National Graduate Mathematics Modeling Competition
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing 
-- *2017.09 - 2021.06*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan 
+- *2021.09 - 2024.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing, **GPA(81.82/100)**
+- *2017.09 - 2021.06*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan, **GPA(85.34/100)**
 
 # 💻 Technical Skills
 - **Software:** Matlab&Simulink, C, Python, Pytorch, Golang, Bash, Linux, Docker, Kubernetes, Openfaas, LATEX, MS Office
