@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ruifeng Ma (马瑞峰)"
-  avatar           : "images/A.JPG"
+  avatar           : "images/avatar.jpeg"
   bio              : "Beijing Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=cRv9tXMAAAAJ"
   email            : "mrf@bit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -23,7 +23,7 @@ I’m a post-graduate student at Automation School, Beijing Institute of Technol
 
 My research interests include cloud resource management and Machine Learning Operations (MLOps), which aims to take machine learning models to production, and then maintain and monitor them. 
 
-# 🏷 Projects
+<!-- # 🏷 Projects
 
 **Sep. 2022 - Jun. 2023: Intelligent Scrap Steel Grading System(Participate) Supported by the [China Unicom](http://www.chinaunicom.com.cn/index.html)** 
 
@@ -31,43 +31,101 @@ My research interests include cloud resource management and Machine Learning Ope
 
 **Nov. 2020 - Jun. 2021: Multi-dimensional Time Series prediction based on Deep Learning.** Undergraduate research project thesis. Earned 119 stars on [GitHub](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer). Achieved grade A. 
 
-- Learned Generative Models (VAE, FLOW, GAN). Identified the disadvantages of existing models in modeling long sequences. I replaced the decoder of TPA model with GRU to build GRU-TPA model and combined the advantages of MQ-RNN and self-attention to build the MQ-Attention model.
+- Learned Generative Models (VAE, FLOW, GAN). Identified the disadvantages of existing models in modeling long sequences. I replaced the decoder of TPA model with GRU to build GRU-TPA model and combined the advantages of MQ-RNN and self-attention to build the MQ-Attention model. -->
 
 
-# 📝 Papers 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2023</div><img src='images/a_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/Qora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management (Under Reviewed) 
+**Qora**: Neural-Enhanced Interference-Aware Resource Provisioning for Serverless Computing
 
-2023, IEEE Transactions on Network and Service Management
+IEEE Transactions on Automation Science and Engineering (T-ASE)
+
+(coming soon)
+
+---
+
+**Ruifeng Ma**, Yufeng Zhan, Chuge Wu, Zicong Hong, Yasir Ali and Yuanqing Xia
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CCDC</div><img src='images/Interless.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Interless**: Interference-Aware Deep Resource Prediction for Serverless Computing
+
+2024, The 36th Chinese Control and Decision Conference (CCDC)
+
+|25-05-2024|Slide(coming soon)|
+
+---
+
+**Ruifeng Ma**, Yufeng Zhan, Tijin Yan, Yuanqing Xia and Yasir Ali
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images/sonnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management](https://doi.org/10.1016/j.future.2023.11.019)
+
+2024, Future Generation Computer Systems (FGCS)
+
+---
 
 **Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
 
-- Existing methods cannot describe the internal mathematical expression between resources and performance, resulting in the inability to accurately give the amount of resource allocation under dynamic load conditions.
-- We use a dynamic linearization approach to identify a model between resources and performance and minimize an objective function that controls error and resource cost.
+<!-- - Sonnet cost-effectively allocates resources to applications and ensures performance.
+
+- Sonnet's control-theoretic method doesn't need prior knowledge for new applications.
+
+- Sonnet reduces the SLO violation rate by 91% and resource costs by 47%. -->
+
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/access-gagraphic-3364384.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Hardware Realization of SC Polar Decoders Using Compound Pipelined Processing Units and Auxiliary Registers](https://doi.org/10.1109/ACCESS.2024.3364384)
+
+2024, IEEE Access
+
+---
+
+Yasir Ali, Yaunqing Xia, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S. Aakar, Amit Krishan Kumar and **Ruifeng Ma**
+
+
+<!-- Polar codes have garnered substantial research attention due to their impressive performance characteristics and have found applications in recent technologies. However, the existing SC decoders suffer from lengthy processing latencies due to their sequential processing steps, thereby restricting the practical applicability of polar codes. To address this latency issue, this paper introduces a compound pipeline processing unit and its simplified counterpart. -->
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2022.10* Excellent student of Beijing Institute of Technology.
-- *2022.11* The First Prize Scholarship of Beijing Institute of Technology 
-- *2021.11* The First Prize Scholarship of Beijing Institute of Technology
-- *2018.11* The Second Prize Scholarship of Shandong University
-- *2022.03* The Second Prize of National Graduate Mathematics Modeling Competition
-- *2021.12* The Second Prize of National Graduate Mathematics Modeling Competition
+- *2023.01* The Third Prize of National Graduate Mathematics Modeling Competition.
+- *2022.12* Excellent student of Beijing Institute of Technology.
+- *2022.12* The First Prize Scholarship of Beijing Institute of Technology.
+- *2022.03* The Second Prize of National Graduate Mathematics Modeling Competition.
+- *2021.12* The First Prize Scholarship of Beijing Institute of Technology.
+- *2021.12* The Second Prize of National Graduate Mathematics Modeling Competition.
+- *2018.11* The Second Prize Scholarship of Shandong University. (Top 8%)
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing, **GPA(81.82/100)**
-- *2017.09 - 2021.06*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan, **GPA(85.34/100)**
+- *2021.09 - 2024.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing<!-- , **GPA(81.82/100)** -->.
+- *2017.09 - 2021.06*, Undergraduate, School of Control Science and Engineering, Shandong University, Jinan<!-- , **GPA(85.34/100)** -->.
 
 # 💻 Technical Skills
 - **Software:** Matlab&Simulink, C, Python, Pytorch, Golang, Bash, Linux, Docker, Kubernetes, Openfaas, LATEX, MS Office
 - **Languages:** English (IELTS - 6.0), Chinese (Native)
 
 # 🧑‍💼 Professional Experience 
-- *2018.07 - 2018.08*, Shanghai Jiaotong University AiC Summer School. *Participated in the VEX robot competition and redesign the robot structure according to the requirements.*
+- *2018.07 - 2018.08*, [Shanghai Jiaotong University](https://en.sjtu.edu.cn/) AiC Summer School. *Participated in the VEX robot competition and redesign the robot structure according to the requirements.*
 - *2021.06 - 2021.08*, [SHAREit Group](https://www.ushareit.com/), Machine Learning Interns. *Designed a sorting algorithm for advertising recommendation. And completed the phase I scheme of automatic generation of e-commerce advertising pictures.*
-- *2022.02 - 2022.03*, Chengdu Economic Development Academy, Researcher. *Built evaluation indicators for enterprise evaluation innovation index.*
+- *2022.02 - 2022.03*, Chengdu New Economic Development Academy, Researcher. *Built evaluation indicators for enterprise evaluation innovation index.*
