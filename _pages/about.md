@@ -112,9 +112,10 @@ Yasir Ali, Yaunqing Xia, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S.
 - *2023.01* The Third Prize of National Graduate Mathematics Modeling Competition.
 - *2022.12* Excellent student of Beijing Institute of Technology.
 - *2022.12* The First Prize Scholarship of Beijing Institute of Technology.
-- *2022.03* The Second Prize of National Graduate Mathematics Modeling Competition.
+- *2022.06* The Third Prize of MathorCup Mathematics Modeling Competition.
+- *2022.03* The Second Prize of MathorCup Mathematics Modeling Competition.
 - *2021.12* The First Prize Scholarship of Beijing Institute of Technology.
-- *2021.12* The Second Prize of National Graduate Mathematics Modeling Competition.
+- *2021.11* The Second Prize of National Graduate Mathematics Modeling Competition.
 - *2018.11* The Second Prize Scholarship of Shandong University. (Top 8%)
 
 # 📖 Educations
@@ -129,3 +130,8 @@ Yasir Ali, Yaunqing Xia, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S.
 - *2018.07 - 2018.08*, [Shanghai Jiaotong University](https://en.sjtu.edu.cn/) AiC Summer School. *Participated in the VEX robot competition and redesign the robot structure according to the requirements.*
 - *2021.06 - 2021.08*, [SHAREit Group](https://www.ushareit.com/), Machine Learning Interns. *Designed a sorting algorithm for advertising recommendation. And completed the phase I scheme of automatic generation of e-commerce advertising pictures.*
 - *2022.02 - 2022.03*, Chengdu New Economic Development Academy, Researcher. *Built evaluation indicators for enterprise evaluation innovation index.*
+
+# 👥 Links
+
+- [Haosong Peng](https://livioni.github.io/)
+- [Tianyu Qi](https://tymiracle.top/)
