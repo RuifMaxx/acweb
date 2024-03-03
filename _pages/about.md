@@ -72,7 +72,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 **Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
 
-[Paper PDF](https://raw.githubusercontent.com/RuifMaxx/acad-homepage.github.io/246392e285631bb0cda48a67cb72c7e3ecc0d10d/images/Sonnet-Paper.pdf) ｜DOI: 10.1016/j.future.2023.11.019
+[Shareable Preprint](https://sim.ppeak.site/files/sonnet-preprint.pdf) ｜DOI: 10.1016/j.future.2023.11.019
 
 <!-- - Sonnet cost-effectively allocates resources to applications and ensures performance.
 
@@ -94,7 +94,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 Yasir Ali, Yaunqing Xia, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S. Aakar, Amit Krishan Kumar and **Ruifeng Ma**
 
-[Paper PDF](https://raw.githubusercontent.com/RuifMaxx/acad-homepage.github.io/920a5bea42ad81f1ebb15ebc90ab309d669bba8b/images/access-2024.pdf) ｜DOI: 10.1109/ACCESS.2024.3364384
+[Paper PDF](https://sim.ppeak.site/files/access-2024.pdf) ｜DOI: 10.1109/ACCESS.2024.3364384
 
 <!-- Polar codes have garnered substantial research attention due to their impressive performance characteristics and have found applications in recent technologies. However, the existing SC decoders suffer from lengthy processing latencies due to their sequential processing steps, thereby restricting the practical applicability of polar codes. To address this latency issue, this paper introduces a compound pipeline processing unit and its simplified counterpart. -->
 
