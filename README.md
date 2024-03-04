@@ -65,18 +65,6 @@ Some examples:
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
-## Install Jekyll
-
-```
-sudo apt-get install ruby-full build-essential zlib1g-dev
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
-gem install jekyll -v  3.9.2
-gem install bundler -v  2.4.8
-```
-
 
 # Acknowledges
 
