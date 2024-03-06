@@ -68,7 +68,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 [**Sonnet:** A Control-Theoretic Approach for Resource Allocation in Cluster Management](https://doi.org/10.1016/j.future.2023.11.019)
 
-2024, Future Generation Computer Systems (FGCS)
+2024, Future Generation Computer Systems ((IF=7.5, JCR Q1)
 
 **Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
 
@@ -90,7 +90,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 [Efficient Hardware Realization of SC Polar Decoders Using Compound Pipelined Processing Units and Auxiliary Registers](https://doi.org/10.1109/ACCESS.2024.3364384)
 
-2024, IEEE Access
+2024, IEEE Access (IF=3.9)
 
 Yasir Ali, Yaunqing Xia, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S. Aakar, Amit Krishan Kumar and **Ruifeng Ma**
 
