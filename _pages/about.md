@@ -41,7 +41,7 @@ My research interests include cloud resource management and Machine Learning Ope
 
 **Qora**: Neural-Enhanced Interference-Aware Resource Provisioning for Serverless Computing
 
-IEEE Transactions on Automation Science and Engineering (T-ASE)
+IEEE Transactions on Automation Science and Engineering (IF=5.6)
 
 (coming soon)
 
@@ -56,7 +56,7 @@ IEEE Transactions on Automation Science and Engineering (T-ASE)
 
 **Interless**: Interference-Aware Deep Resource Prediction for Serverless Computing
 
-2024, The 36th Chinese Control and Decision Conference (CCDC)
+2024, The 36th Chinese Control and Decision Conference (EI Conference)
 
 **Ruifeng Ma**, Yufeng Zhan, Tijin Yan, Yuanqing Xia and Yasir Ali
 
