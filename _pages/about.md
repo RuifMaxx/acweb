@@ -45,7 +45,7 @@ IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
 
 (coming soon)
 
-**Ruifeng Ma**, Yufeng Zhan, Chuge Wu, Zicong Hong, Yasir Ali and Yuanqing Xia
+**Ruifeng Ma**, Yufeng Zhan, Chuge Wu, Zicong Hong, Yasir Ali and Yuanqing Xia<sup>*</sup>
 
 
 </div>
@@ -58,7 +58,7 @@ IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
 
 2024, The 36th Chinese Control and Decision Conference (EI Conference)
 
-**Ruifeng Ma**, Yufeng Zhan, Tijin Yan, Yuanqing Xia and Yasir Ali
+**Ruifeng Ma**, Yufeng Zhan, Tijin Yan, Yuanqing Xia<sup>*</sup> and Yasir Ali
 
 </div>
 </div>
@@ -92,7 +92,7 @@ IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
 
 2024, IEEE Access (SCI, IF=3.9)
 
-Yasir Ali, Yaunqing Xia, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S. Aakar, Amit Krishan Kumar and **Ruifeng Ma**
+Yasir Ali, Yaunqing Xia<sup>*</sup>, Tayyab Manzoor, Shahzad Ali, Mohamed Abouhawwash, S. S. Aakar, Amit Krishan Kumar and **Ruifeng Ma**
 
 [Paper PDF](https://sim.ppeak.site/files/access-2024.pdf) ｜DOI: 10.1109/ACCESS.2024.3364384
 
