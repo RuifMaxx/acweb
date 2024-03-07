@@ -70,7 +70,7 @@ IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
 
 2024, Future Generation Computer Systems (SCI, IF=7.5, JCR Q1)
 
-**Ruifeng Ma,** Yufeng Zhan, Chuge Wu, Zehua Guo and Yuanqing Xia
+**Ruifeng Ma**, Yufeng Zhan<sup>*</sup>, Yuanqing Xia<sup>*</sup>, Chuge Wu, Liwen Yang, Runze Gao
 
 [Shareable Preprint](https://sim.ppeak.site/files/sonnet-preprint.pdf) ｜DOI: 10.1016/j.future.2023.11.019
 
