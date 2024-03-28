@@ -36,21 +36,6 @@ My research interests include cloud resource management and Machine Learning Ope
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE</div><img src='images/Qora.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Qora**: Neural-Enhanced Interference-Aware Resource Provisioning for Serverless Computing
-
-IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
-
-(coming soon)
-
-**Ruifeng Ma**, Yufeng Zhan, Chuge Wu, Zicong Hong, Yasir Ali and Yuanqing Xia<sup>*</sup>
-
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CCDC</div><img src='images/Interless.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
